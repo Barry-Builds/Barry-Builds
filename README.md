@@ -1,18 +1,22 @@
-# 👋 Hey, I'm Ousmane Barry
+<h1 align="center">👋 Hey, I'm Ousmane Barry</h1>
 
-🎓 Computer Science Student | Software Development | AI & Data
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&width=650&lines=The+future+is+written+in+code." alt="Animated typing text" />
+<p align="center">
+  🎓 Computer Science Student | Software Development | AI & Data
 </p>
 
-💻 I learn by building projects, exploring new technologies, and turning ideas into practical applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=The+future+is+written+in+code." alt="Animated typing text" />
+</p>
+
+<p align="center">
+  💻 I learn by building projects, exploring new technologies, and turning ideas into practical applications.
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,33 +33,73 @@
 
 ---
 
-### 📂 My Projects
+<h2 align="center">🚀 My Projects</h2>
 
-| Project | Description | Repository |
-|---|---|---|
-| MeetCare | Healthcare appointment platform | [Open repository](https://github.com/Memphis237/MeetCare.git) |
-| AI Study Assistant | AI-powered student revision platform using course materials, uploaded documents, and AI-generated summaries | [Open repository](https://github.com/ikcamara/student_copilot.git) |
-| Library Management System | Library resources management | [Open repository](https://github.com/Memphis237/projet-java.git) |
-| Games Platform | Sudoku and word-of-the-day website | [Open repository](https://github.com/Memphis237/projet-web.git) |
-| Champions League 2027 Prediction Study | Python notebooks and data analysis exploring possible tournament outcomes | [Open repository](https://github.com/moussa197/CHAMPIONS-.git) |
-| General Knowledge Quiz | Quiz website covering history, geography, sports, and more | [Open repository](https://github.com/juscecabrera/projet-web-moderne-quiz.git) |
-| CV Creator | CV creation | [Open repository](https://github.com/Barry-Builds/createur-cv) |
-| Clothing E-commerce | Online clothing store | [Open repository](https://github.com/Barry-Builds/Projet-Frontend) |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🩺 MeetCare</td>
+      <td>Healthcare appointment platform</td>
+      <td><a href="https://github.com/Memphis237/MeetCare.git">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>📚 AI Study Assistant</td>
+      <td>AI-powered student revision platform using course materials, uploaded documents, and AI-generated summaries</td>
+      <td><a href="https://github.com/ikcamara/student_copilot.git">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>📚 Library Management System</td>
+      <td>Library resources management</td>
+      <td><a href="https://github.com/Memphis237/projet-java.git">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>🎮 Games Platform</td>
+      <td>Sudoku and word-of-the-day website</td>
+      <td><a href="https://github.com/Memphis237/projet-web.git">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>⚽ Champions League 2027 Prediction Study</td>
+      <td>Python notebooks and data analysis exploring possible tournament outcomes</td>
+      <td><a href="https://github.com/moussa197/CHAMPIONS-.git">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>🧠 General Knowledge Quiz</td>
+      <td>Quiz website covering history, geography, sports, and more</td>
+      <td><a href="https://github.com/juscecabrera/projet-web-moderne-quiz.git">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>🎨 CV Creator</td>
+      <td>CV creation project</td>
+      <td><a href="https://github.com/Barry-Builds/createur-cv">Open repository</a></td>
+    </tr>
+    <tr>
+      <td>🛍️ Clothing E-commerce</td>
+      <td>Online clothing store</td>
+      <td><a href="https://github.com/Barry-Builds/Projet-Frontend">Open repository</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 🎯 Current Interests
+<h2 align="center">🎯 Current Interests</h2>
 
-- Artificial Intelligence & Machine Learning
-- Data & Automation
-- Software Engineering
-- Building useful digital products and SaaS
+<p align="center">
+  Artificial Intelligence & Machine Learning · Data & Automation · Software Engineering · SaaS
+</p>
 
 ---
 
-### 🤝 Connect with Me
+<h2 align="center">🤝 Connect with Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ousmane-barry-4710b5395/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
